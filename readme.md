@@ -1,0 +1,4 @@
+The premise of this project is to show how to use Fetch with async/await syntax in Javascript. 
+The UI employs the Hero Patterns Vector background and the use of font awesome icons was also employed to add icons.
+ Still on the UI, at the buttom, are two buttons. First is the "Twitter" button, which, when clicked,opens Twitter in a new tab and the current quote on display pops up on your Twitter field and allows you to tweet it. The second button is the "New Quote" button. This button, pops up a new quote every time it is clicked.
+This project is also mobile responsive, in that, it shows different layouts depending on the size of your viewport. This achieved with the use of Media query added to the CSS.
